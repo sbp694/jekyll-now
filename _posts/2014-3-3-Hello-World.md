@@ -3,7 +3,7 @@ layout: post
 title: Week of Aug. 24th through the 28th
 ---
 
-### What did you do this past week?
+### What did you do this past week? ###
 
 Well this past week marked the end of my summer and the return to the grind with the start of the new semester. It was a pretty short week since classes started on a Wednesday but dispite that, after Professor Downing whent over your typical class intro, he wasted no time in getting the ball rolling with this class. A large portion of the class time was spent going over some of the tools that we will be making use of to help analysis and write our code. The rest of the class time was spent going over the basic question of, what is object oriented programming?
 
