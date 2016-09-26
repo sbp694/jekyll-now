@@ -13,8 +13,5 @@ I feel like at this point I've gotten fairly comfortable with all the different 
 This coming week is going to be full of studying for the exam that is in two Thursdays.
 
 ### Tip-of-the-week
-As always, NASA is awesome and has created an inflatable module for the International Space Station. I can't help but think of an inflatable bounce house
- in space that can help shield astronauts from micrometeorites and radiation. This tech is still in its developmental stage and lots of tests
- are being done to help assess its viability for things like long-term voyages to Mars and beyond. Here's a link to a video where astronauts entered the module
- for the first time to gather sensor data: http://www.space.com/33087-astronauts-enter-inflatable-space-station-habitat.html
+As always, NASA is awesome and has created an inflatable module for the International Space Station. I can't help but think of an inflatable bounce house in space that can help shield astronauts from micrometeorites and radiation. This tech is still in its developmental stage and lots of tests are being done to help assess its viability for things like long-term voyages to Mars and beyond. Here's a link to a video where astronauts entered the module for the first time to gather sensor data: http://www.space.com/33087-astronauts-enter-inflatable-space-station-habitat.html
 
